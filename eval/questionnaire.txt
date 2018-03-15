@@ -1,0 +1,58 @@
+#ALGO
+##Les variables
+A quoi sert une variable ?
+Un byte est codé sur 8bit, un char est codé sur :
+- 1 octet
+- 8 bits
+- 16bits
+- 4 octets
+Un type booleen est codé sur combien de bits ? 
+##Les opérateurs
+Quel est le résultat de l'opération suivante : 3+2*5 ?
+L'opération qui consiste à comparer deux valeurs retourne quel type de résultat ?
+Lequels sont des opérateurs de comparaison ?
+- ==
+- !=
+- >
+- <=
+Le modulo de 2 permet de tester la parité d'une valeur, pourquoi ?
+##Les conditions
+L'évaluation entre parenthèses doit retourner quelle valeur pour que l'algorithme dans le bloc du if soit executé ?
+Une variable flag est initialisée a false, si j'ecris if(!flag){}else{} :
+- le code entre les accolades du if sera executé
+- le code entre les accolades du else sera executé
+- aucun des deux blocs ne sera executé
+- le code est incorrect
+Dans un bloc de conditions multiples (if else if), si le test valide les deux conditions :
+- seul le else if est executé
+- les deux blocs sont executés
+- le bloc if est executé
+- si, sinon si c'est assez clair que seul le premier est executé
+##Les boucles
+Une boucle for est plus pratique pour parcourir un tableau, pourquoi ?
+Un compteur est décrémenté a chaque itérations de 1 (selectionnez les commentaires justes):
+- while(compteur>0){} // le compteur s'arrete à 0
+- for(int compteur = 10;compteur>1;compteur--){} // le compteur s'arrete à deux
+- while(true){} // ceci est une boucle infinie
+- for(...){} // la condition d'une boucle for doit retourner faux pour continuer a boucler
+Quels sont les trois variables d'itération ?
+##Les fonctions
+Une fonction est définie au minimum par :
+- son type de retour 
+- son nom
+- ses arguments
+- sa visibilité
+A quoi sert une fonction ?
+Quel est la différence entre une fonction et une methode ?
+#POO
+##Les objets
+Qu'est ce qu'une classe ?
+Quelle est la différence entre un objet et un instance de classe ?
+A la création d'un objet les propriétés non initialisées sont dans quel état ?
+#CULTURE GENERALE
+##Systèmes
+Indiquez le déroulement d'une communication correcte entre deux applications en mode connecté :
+Quel est l'opération principale d'un serveur ?
+Citez deux applications necessaires pour le developpeur web
+##Conclusion
+Etes vous capable de pouvoir ecrire le code du générateur de binôme? justifiez.
